@@ -1,1 +1,1 @@
-Ini hanyalah sebuah cdn untuk gaptek.com
+Ini hanyalah sebuah cdn untuk omggaptek.com
