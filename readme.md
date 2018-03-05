@@ -1,0 +1,1 @@
+Ini hanyalah sebuah cdn untuk gaptek.com
